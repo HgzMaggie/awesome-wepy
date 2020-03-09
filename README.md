@@ -35,6 +35,7 @@
 
 ### 开源项目
 
+- [玉帛书：基于wepy开发的校园社区小程序](https://github.com/liubin1592/community)
 - [wepy-wechat-demo：基于wepy开发的仿微信聊天界面小程序](https://github.com/wepyjs/wepy-wechat-demo)
 - [深大的树洞：基于wepy开发的树洞类微信小程序](https://github.com/jas0ncn/szushudong)
 - [wepy-demo-bookmall：微信小程序🐼📖代码示例，使用wepy框架及weui样式开发](https://github.com/Thunf/wepy-demo-bookmall)
